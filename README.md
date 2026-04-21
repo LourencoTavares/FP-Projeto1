@@ -68,6 +68,8 @@ Na ultima linha do projeto alterar os valores, se pretendido:
   - 'normal' -> estratégia intermédia (não implementada);
   - 'dificil' -> estratégia avançada (não implementada);
 
+---
+
 ## Como executar
 
 1. Abrir o ficheiro Python no terminal:
